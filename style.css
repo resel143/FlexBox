@@ -1,0 +1,29 @@
+.container01{
+    display: flex;
+    justify-content:end;
+}
+#first{
+    flex: 1;
+    border: 3px solid red;
+    order:2;
+            
+}
+#second{
+    flex: 1;
+    border: 3px solid red;
+    order: 1;
+        
+}
+#third{
+    flex: 1;
+    border: 3px solid rgb(214, 50, 50);
+    order: 4;
+    
+}
+
+/* #fourth{
+    flex: 1;
+    border: 3px solid red;
+    order: 3;
+    
+} */
